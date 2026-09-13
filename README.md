@@ -21,7 +21,7 @@ Current portfolio roadmap:
 
 ## 📫 Reach me
 
-<!-- dohey112@gmail.com / LinkedIn here --> https://www.linkedin.com/in/jaehoon-eom-961453252/
+Email LinkedIn
 
 ---
 *Field engineer by day, working my way toward*
