@@ -24,4 +24,4 @@ Current portfolio roadmap:
 <!-- dohey112@gmail.com / LinkedIn here --> https://www.linkedin.com/in/jaehoon-eom-961453252/
 
 ---
-*Field engineer by day, working my way toward the boards and firmware underneath the robots.*
+*Field engineer by day, working my way toward*
