@@ -6,7 +6,6 @@ Technical Support Engineer at **Bear Robotics Korea**, working on autonomous mob
 
 I'm on the field-facing side of robotics: diagnosing and resolving real-world issues on deployed autonomous mobile robots across Korean (and some Japanese) markets.
 
-- Bring a sales-engineering background (3 years at Panasonic, servo motors) that shapes how I think about product reliability from a customer's perspective
 
 ## 🔧 Where I'm headed
 
